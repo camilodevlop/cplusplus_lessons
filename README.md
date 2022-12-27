@@ -2,6 +2,36 @@
 
 In this repository I share most of the solutions for the exercises proposed in the book "Programming Principles and Practice Using C++" second edition. Before taking a bootcamp I decided to learn from this book because the author explains in depth the concepts of programming. It's just that I like to know the why of things and then apply them.
 
+CHAPTER 1 - COMPUTERS, PEOPLE, and PROGRAMMING: Information only (no coding).
+
+CHAPTER 2 - HELLO, WORLD!: programs, the classic first program, compilation, linking, programming environments.
+
+CHAPTER 3 - OBJECTS, TYPES, and VALUES: input, variables, input on type, operations and operators, assignment
+and initialization, composite assignment operators, names, types and objects, type safety.
+
+CHAPTER 4 - COMPUTATION: computation, objectives and tools, expressions, statements, fucntions, vector, lan-
+guage features.
+
+CHAPTER 5 - ERRORS: sources of errors, compile-time errors, link-time errors, run-time errors, exceptions,
+logic errors, estimation, debugging, pre- and post-conditions, testing.
+
+CHAPTER 6:
+CHAPTER 7:
+CHAPTER 8:
+CHAPTER 9:
+CHAPTER 10:
+CHAPTER 11:
+CHAPTER 12:
+CHAPTER 13:
+CHAPTER 14:
+CHAPTER 15:
+CHAPTER 16:
+CHAPTER 17:
+CHAPTER 18:
+CHAPTER 19:
+CHAPTER 20:
+
+------------------------------------------------------------------------------------------------------------
 
 To compile the programs in chapters 12-16 you need the FLTK library.
 
