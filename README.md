@@ -2,6 +2,15 @@
 
 In this repository I share most of the solutions for the exercises proposed in the book "Programming Principles and Practice Using C++" second edition. The exercises are related to the topics referred below. Before taking a bootcamp I decided to learn from this book because the author explains in depth the concepts of programming. It's just that I like to know the why of things and then apply them.
 
+------------------------------------------------------------------------------------------------------------
+
+***********************
+Please note that starting in Chapter 17 the programs were compiled on the ARM64 architecture.
+***********************
+
+------------------------------------------------------------------------------------------------------------
+
+
 CHAPTER 1 - COMPUTERS, PEOPLE, and PROGRAMMING: Information only (no coding).
 
 CHAPTER 2 - HELLO, WORLD!: programs, the classic first program, compilation, linking, programming environments.
@@ -63,13 +72,10 @@ CHAPTER 20 - CONTAINERS AND ITERATORS: storing and processing data, STL ideals, 
 linked lists, generalizing vector yet again, a simple text editor, vector, list, string, adapting our vector
 to the STL, adapting built-in arrays to the STL, container overview.
 
-------------------------------------------------------------------------------------------------------------
 
-***********************
-Please note that starting in Chapter 17 the programs were compiled on the ARM64 architecture.
-***********************
 
-------------------------------------------------------------------------------------------------------------
+
+
 
 To compile the programs in chapters 12-16 you need the FLTK library.
 
