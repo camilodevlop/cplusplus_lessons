@@ -1,6 +1,6 @@
 # cplusplus_lessons
 
-In this repository I share most of the solutions for the exercises proposed in the book "Programming Principles and Practice Using C++" second edition. Before taking a bootcamp I decided to learn from this book because the author explains in depth the concepts of programming. It's just that I like to know the why of things and then apply them.
+In this repository I share most of the solutions for the exercises proposed in the book "Programming Principles and Practice Using C++" second edition. The exercises are related to the topics referred below. Before taking a bootcamp I decided to learn from this book because the author explains in depth the concepts of programming. It's just that I like to know the why of things and then apply them.
 
 CHAPTER 1 - COMPUTERS, PEOPLE, and PROGRAMMING: Information only (no coding).
 
@@ -49,13 +49,19 @@ data.
 CHAPTER 16 - GRAPHICAL USER INTERFACES: the "next" button, a simple window, button and other widgets, an
 example, control inversion, adding a menu, debugging GUI code.
 
-CHAPTER 17 - VECTOR AND FREE STORE:
+CHAPTER 17 - VECTOR AND FREE STORE: vector basics, memory, addresses, pointers, free store and pointers,
+destructors, access to elements, pointers to class objects, void* and casts, pointers and references, the
+this pointer.
 
-CHAPTER 18:
+CHAPTER 18 - VECTORS AND ARRAYS: initialization, copying, essential operations, access to vector elements,
+arrays.
 
-CHAPTER 19:
+CHAPTER 19 - VECTOR, TEMPLATES, AND EXCEPTIONS: the problems, changing size, templates, range checking and
+exceptions, resources and exceptions.
 
-CHAPTER 20:
+CHAPTER 20 - CONTAINERS AND ITERATORS: storing and processing data, STL ideals, sequences and iterators,
+linked lists, generalizing vector yet again, a simple text editor, vector, list, string, adapting our vector
+to the STL, adapting built-in arrays to the STL, container overview.
 
 ------------------------------------------------------------------------------------------------------------
 
