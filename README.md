@@ -15,20 +15,46 @@ guage features.
 CHAPTER 5 - ERRORS: sources of errors, compile-time errors, link-time errors, run-time errors, exceptions,
 logic errors, estimation, debugging, pre- and post-conditions, testing.
 
-CHAPTER 6:
-CHAPTER 7:
-CHAPTER 8:
-CHAPTER 9:
-CHAPTER 10:
-CHAPTER 11:
-CHAPTER 12:
-CHAPTER 13:
-CHAPTER 14:
-CHAPTER 15:
-CHAPTER 16:
-CHAPTER 17:
+CHAPTER 6 - WRITING A PROGRAM: a problem, thinking about the problem, grammars, turning a grammar into code,
+token streams, program structure.
+
+CHAPTER 7 - COMPLETING A PROGRAM: introduction, input and output, error handling, negative numbers, cleaning
+up the code, recovering from errors, variables.
+
+CHAPTER 8 - TECHNICALITIES: technicalities, declarations and definitions, header files, scope, function call
+and return, order of evaluation, namespaces.
+
+CHAPTER 9 - TECHNICALITIES: classes, user-defined types, classes and members, interface and implementation,
+evolving a class, enumerations, operator overloading, class interfaces.
+
+CHAPTER 10 - INPUT AND OUTPUT STREAMS: input and output, the I/O stream model, files, opening a file, reading
+and writing a file, I/O error handling, reading a single value, user-defined output operators, user-defined 
+input operators, a standard input loop, reading a structure file.
+
+CHAPTER 11 - CUSTOMIZING INPUT AND OUTPUT: regularity and irregularity, output formating, file opening and
+positioning, string streams, line-oriented input, character classification, using nonstandard separators.
+
+CHAPTER 12 - A DISPLAY MODEL: a display model, using a GUI library, coordinates, shapes, using shape 
+primitives.
+
+CHAPTER 13 - GRAPHICS CLASSES: overview of graphics classes (point and line, lines, color, line_style,
+polygon, rectangle, etc).
+
+CHAPTER 14 - GRAPHICS CLASS DESIGN: design principles, shape, base and derived classes, benefits of
+object-oriented programming.
+
+CHAPTER 15 - GRAPHING FUNCTIONS AND DATA: graphing simple functions, function, axis, approximation, graphing
+data.
+
+CHAPTER 16 - GRAPHICAL USER INTERFACES: the "next" button, a simple window, button and other widgets, an
+example, control inversion, adding a menu, debugging GUI code.
+
+CHAPTER 17 - VECTOR AND FREE STORE:
+
 CHAPTER 18:
+
 CHAPTER 19:
+
 CHAPTER 20:
 
 ------------------------------------------------------------------------------------------------------------
