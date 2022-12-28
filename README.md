@@ -65,6 +65,12 @@ to the STL, adapting built-in arrays to the STL, container overview.
 
 ------------------------------------------------------------------------------------------------------------
 
+***********************
+Please note that starting in Chapter 17 the programs were compiled on the ARM64 architecture.
+***********************
+
+------------------------------------------------------------------------------------------------------------
+
 To compile the programs in chapters 12-16 you need the FLTK library.
 
 FLTK version downloaded: fltk-1.3.8-source.tar.bz2
