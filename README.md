@@ -62,7 +62,7 @@ CHAPTER 18 - VECTORS AND ARRAYS: initialization, copying, essential operations, 
 arrays.
 
 CHAPTER 19 - VECTOR, TEMPLATES, AND EXCEPTIONS: the problems, changing size, templates, range checking and
-exceptions, resources and exceptions.
+exceptions, resources and exceptions, RAII for vectors.
 
 CHAPTER 20 - CONTAINERS AND ITERATORS: storing and processing data, STL ideals, sequences and iterators,
 linked lists, generalizing vector yet again, a simple text editor, vector, list, string, adapting our vector
